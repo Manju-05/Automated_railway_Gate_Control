@@ -60,7 +60,6 @@ To develop an automated railway gate control system that:
 
 ## 🖼️ Circuit Diagram
 
-_(Add your circuit image here in the repo)_
 ```
 ./images/railway_circuit.png
 ```
